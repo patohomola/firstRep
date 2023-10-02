@@ -1,7 +1,7 @@
 # firstRep
 first rep
 <<<<<<< HEAD
-KAMIL PECELA
+KAMIL PECELA is testing now
 =======
 
 alonso was here test test test
